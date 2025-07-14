@@ -22,10 +22,10 @@ Hello, I'm a software engineer with 2+ years of working experience but I've been
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="puppteer" src="https://img.shields.io/badge/puppeteer-FFAE1A?style=flat-square&logo=puppeteer&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&php&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&mysql&logoColor=white" />
-  <img alt="Redis" src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&redis&logoColor=white" />
-  <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF4438?style=flat-square&rabbitmq&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white" />
+  <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF4438?style=flat-square&logo=rabbitmq&logoColor=white" />
   <img alt="NextJS" src="https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=nextdotjs&logoColor=white">
 </p>
 
