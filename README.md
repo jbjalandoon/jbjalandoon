@@ -2,7 +2,7 @@
 
 **`A Software Engineer`**
 
-Hello, I'm a software engineer with 2+ years of working experience but I've been into programming for 6 years. All of the projects you can see in here are built entirely from the bottom up, from planning and designing to implementation. 
+Hello, I'm a software engineer with 2+ years of working experience but I've been into programming for 6 years. All of the projects you can see in here are built entirely from the bottom up, from planning and designing to implementation. Check out my [portfolio](https://jeromejalandoon.online)
 
 ---
 
